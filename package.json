@@ -1,0 +1,14 @@
+{
+  "name": "threejs-tutorial-for-absolute-beginners-youtube",
+  "version": "1.0.0",
+  "description": "Coding along `https://www.youtube.com/watch?v=xJAfLdUgdc4&list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho`",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.186.0"
+  }
+}
